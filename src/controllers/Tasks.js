@@ -1,4 +1,4 @@
-const Transaction=require('src/model/Task.js')
+const Transaction=require('./src/model/Task.js')
 
 const createAllTransactions = async (req, res) => {
     try {
